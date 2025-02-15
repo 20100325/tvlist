@@ -24,8 +24,6 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 group-title="LIVE",HBO Comedy
-https://stream1.freetv.fun/bd8d34da2129292a84e197e9830062e670fd306bbc06753ef1396f7cb863877e.m3u8
 #EXTINF:-1 group-title="LIVE",HBO2
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 group-title="LIVE",Lifetime

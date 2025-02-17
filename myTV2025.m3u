@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="LIVE",ESPN
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="LIVE",ESPN 2
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
 #EXTINF:-1 group-title="LIVE",FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 group-title="LIVE",Animal Planet
@@ -288,6 +290,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="国内",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="国内",湖南卫视
+http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 #EXTINF:-1 group-title="国内",云南卫视
 https://stream1.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed796950bf8ca94d14970a5f870592a.m3u8
 #EXTINF:-1 group-title="国内",黑龙江影视

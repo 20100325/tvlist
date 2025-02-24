@@ -28,8 +28,6 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 group-title="LIVE",HBO2
-http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 group-title="LIVE",Lifetime
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="LIVE",History
@@ -119,8 +117,6 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="LIVE",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="LIVE",Crave 2
-http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="LIVE",Crave 4
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBOHD
 http://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv

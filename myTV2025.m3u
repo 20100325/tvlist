@@ -119,7 +119,7 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="LIVE",Crave 2
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBOHD
-http://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 #EXTINF:-1 group-title="LIVE",DISCOVERY SCI
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 #EXTINF:-1 group-title="LIVE",DMAX
@@ -130,7 +130,7 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6521/index.m3u8
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6492/index.m3u8
 #EXTINF:-1 group-title="LIVE",TSN-3
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6522/index.m3u8
-#EXTINF:-1 group-title="LIVE",TSN-1
+#EXTINF:-1 group-title="LIVE",TSN-4
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6445/index.m3u8
 #EXTINF:-1 group-title="LIVE",SportsNet
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/11108/index.m3u8
@@ -165,9 +165,9 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7324/index.m3u8
 #EXTINF:-1 group-title="LIVE",CTV-SCIFI
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6459/index.m3u8
 #EXTINF:-1 group-title="LIVE",Nicktoons
-https://stream1.freetv.fun/d76c4f27819f2e0f01dc9a7506fdc0b605d1308c3b49b1e509e0d1473149411f.m3u8
+http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="LIVE",Thrill
-https://stream1.freetv.fun/6c607b0ca0b6b76cf4c1e3e5e546b575d91306074bb492cf544be75e894a71f2.m3u8
+https://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",Sky Premium
 https://stream1.freetv.fun/a679dc4082060a367c127c65344fb6f8cabf5730c6ff75bd235b5b49e8282a32.ctv
 #EXTINF:-1 group-title="LIVE",GALAXY Premium

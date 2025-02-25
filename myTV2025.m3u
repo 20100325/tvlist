@@ -178,11 +178,12 @@ https://stream1.freetv.fun/7b52a960c67bf9995ac3e640b82672436167255803ade528381a9
 https://stream1.freetv.fun/a0ce477b8c0f55374093cca99f6cb58aa89e786bed650b92ecc3e1a3783f7ac9.m3u8
 #EXTINF:-1 group-title="LIVE",Action Hollywood Movie
 https://stream1.freetv.fun/d1ee0d915c9c717c78ee547251baa0f4502899d85b1e6459064fe6c7cdbfb5ff.m3u8
-#EXTINF:-1 group-title="LIVE",Action House & Country
-https://stream1.freetv.fun/98cf2f34227b4791009af41499ed931656b1f7542c5b329ca6d9432421b2a0e7.m3u8
 #EXTINF:-1 group-title="LIVE",NHK World
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-
+#EXTINF:-1 group-title="LIVE",24 hours Movie
+https://stream1.freetv.fun/98869a64bc8ac8c969adbafc4bd34c1705b8a87f8e841c3f6ae66587b8291215.m3u8
+#EXTINF:-1 group-title="LIVE",OSEM(88)
+https://stream1.freetv.fun/faecb1df71ce5126f3af9025d6cab40fb57ac4a21ac2198d1a717df86e9c50f5.m3u8
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 group-title="中文",凤凰香港
 https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -304,6 +305,8 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="中文",POP C
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="中文",龙华
+https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -423,6 +426,7 @@ https://stream1.freetv.fun/cc0f2407b7c4d8e071c9161f302e952a0e0cea58b8d52e6c8f2ce
 https://stream1.freetv.fun/9a2835bb6eec1c40a1eaeb5902190e0a5445f728419f1a71a696449ccfd2ae08.ctv
 #EXTINF:-1 group-title="国内",电影21
 https://stream1.freetv.fun/528de1c83814f92f0f0eafe52dc0bd723e2bb5fd1f61720b890d0914eb4da861.ctv
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 group-title="央视",CCTV1

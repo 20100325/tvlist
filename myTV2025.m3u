@@ -9,9 +9,15 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 group-title="LIVE",Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 group-title="LIVE",ABC NEWS
-http://41.205.93.154/ABC/index.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="LIVE",ABC NY
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="LIVE",ABC Denver
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="LIVE",ABC LA
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 group-title="LIVE",CNBC
-http://41.205.93.154/CNBC/index.m3u8
+http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="LIVE",TNT
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 group-title="LIVE",TNT(BackUp)

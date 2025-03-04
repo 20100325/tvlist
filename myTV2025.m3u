@@ -319,6 +319,12 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="中文",龙华
 https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
+#EXTINF:-1 group-title="中文",NewTV精品大剧
+http://1.169.12.210:50001/TVOD/1000000004000013968/ystenlive/index.m3u8
+#EXTINF:-1 group-title="中文",HOT亚洲影院
+http://1.169.12.210:50001/TVOD/5841816227539527643/wasusyt/index.m3u8
+#EXTINF:-1 group-title="中文",HOT欧美影院
+http://1.169.12.210:50001/TVOD/2000000004000000005/hnbblive/index.m3u8
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -457,16 +463,27 @@ https://stream1.freetv.fun/9a2835bb6eec1c40a1eaeb5902190e0a5445f728419f1a71a6964
 #EXTINF:-1 group-title="国内",电影21
 https://stream1.freetv.fun/528de1c83814f92f0f0eafe52dc0bd723e2bb5fd1f61720b890d0914eb4da861.ctv
 
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 group-title="央视",CCTV1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+http://152.69.198.57:50001/TVOD/5000000010000030810/bestzb/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://154.7.177.5:5000/TVOD/1000000001000023315/ystenlive/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://1.169.12.210:50001/TVOD/6000000001000022313/wasusyt/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://1.169.12.210:50001/TVOD/5000000011000031102/bestzb/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://152.67.112.124:5000/1000000003000030177/ystenlive/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://152.69.198.57:50001/TVOD/5000000011000031127/bestzb/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://148.135.41.171:25000/6000000001000004574/wasusyt/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://1.169.12.210:50001/TVOD/6000000001000009055/wasusyt/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
 https://stream1.freetv.fun/35afa74920f53491fd0b0d0b59d19ab68031b5ae3609ebf8371fd52e7102849b.m3u8
 #EXTINF:-1 group-title="央视",CCTV8
 https://stream1.freetv.fun/9189ee5697a412ac3ab7ce133ad0b10f78941ea05a1aa58f3080f6c57d5c0c32.m3u8
-#EXTINF:-1 group-title="央视",CCTV6
-https://stream1.freetv.fun/b087428144c7cddfc7c639509c5c2160ed3869036efc916ef63d1965702d01d0.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 https://stream1.freetv.fun/28ec8c575a461279bf71bed75bce89aa23f34a7a2e74252f3331446589be19ae.m3u8

@@ -194,8 +194,8 @@ https://stream1.freetv.fun/98869a64bc8ac8c969adbafc4bd34c1705b8a87f8e841c3f6ae66
 https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8
 #EXTINF:-1 group-title="LIVE",TravelXP
 https://stream1.freetv.fun/53e62294ee965e9234d47cf2f3288922200c1a51603cb6bff8b668b5ad29ac70.m3u8
-#EXTINF:-1 group-title="LIVE",OSEM(88)
-https://stream1.freetv.fun/faecb1df71ce5126f3af9025d6cab40fb57ac4a21ac2198d1a717df86e9c50f5.m3u8
+#EXTINF:-1 group-title="LIVE",HLN
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 group-title="中文",凤凰香港
 https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8

@@ -45,7 +45,7 @@ http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 group-title="LIVE",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 group-title="LIVE",AMC
-http://170.254.18.106/AMC/index.m3u8
+http://143.244.60.97/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="LIVE",FX
 http://170.254.18.106/FX/index.m3u8
 #EXTINF:-1 group-title="LIVE",Paramount Network

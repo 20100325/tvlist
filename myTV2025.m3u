@@ -106,18 +106,8 @@ https://stream1.freetv.fun/39c6d986c4ff60481338f0593a74b1591f279094cdaf90530103c
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 #EXTINF:-1 group-title="LIVE",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="LIVE",Sky Premium
-https://stream1.freetv.fun/a679dc4082060a367c127c65344fb6f8cabf5730c6ff75bd235b5b49e8282a32.ctv
-#EXTINF:-1 group-title="LIVE",GALAXY Premium
-https://stream1.freetv.fun/37ac608a59a30ba9fb516db1f3240ab2380ee3e66443ac48c72d388da65efa78.m3u8
 #EXTINF:-1 group-title="LIVE",CNA
 https://stream1.freetv.fun/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8
-#EXTINF:-1 group-title="LIVE",Bloomberg
-https://stream1.freetv.fun/bf9c8ea12770988a71d180af2e0b2bdbdd692b6d1b701f089ba34a1873161335.m3u8
-#EXTINF:-1 group-title="LIVE",Action Hollywood Movie
-https://stream1.freetv.fun/d1ee0d915c9c717c78ee547251baa0f4502899d85b1e6459064fe6c7cdbfb5ff.m3u8
-#EXTINF:-1 group-title="LIVE",NHK World
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",YTA
 https://stream1.freetv.fun/35cab654134f8cfcbe2ddec5f9240ef4b07049be3ad531d91dd930b89adc4dc2.m3u8
 #EXTINF:-1 group-title="LIVE",24 hours Movie

@@ -22,26 +22,8 @@ http://38.96.178.201/live/TNTHD/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="LIVE",Cinemax
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
-#EXTINF:-1 group-title="LIVE",Rock Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="LIVE",HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="LIVE",HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 group-title="LIVE",HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 group-title="LIVE",HBO Mundi
-http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="LIVE",Lifetime
-http://170.254.18.106/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="LIVE",History
-http://170.254.18.106/HISTORY/index.m3u8
-#EXTINF:-1 group-title="LIVE",BET
-http://170.254.18.106/BET/index.m3u8
-#EXTINF:-1 group-title="LIVE",MTV
-http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 group-title="LIVE",AMC
 http://143.244.60.97/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="LIVE",FX

@@ -102,24 +102,8 @@ http://38.96.178.201/live/Disney/index.m3u8
 http://50.7.234.10:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 group-title="LIVE",CNN
 https://stream1.freetv.fun/39c6d986c4ff60481338f0593a74b1591f279094cdaf90530103c792d0c93d4e.m3u8
-#EXTINF:-1 group-title="LIVE",NBA TV
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6491/index.m3u8
-#EXTINF:-1 group-title="LIVE",BBC 1st
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19181/index.m3u8
-#EXTINF:-1 group-title="LIVE",CTV-Comedy
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6454/index.m3u8
-#EXTINF:-1 group-title="LIVE",MUCH
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6486/index.m3u8
-#EXTINF:-1 group-title="LIVE",CTV-2
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6423/index.m3u8
 #EXTINF:-1 group-title="LIVE",FoodNetwork
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
-#EXTINF:-1 group-title="LIVE",Crime+
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6506/index.m3u8
-#EXTINF:-1 group-title="LIVE",CBS Sports
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7324/index.m3u8
-#EXTINF:-1 group-title="LIVE",CTV-SCIFI
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6459/index.m3u8
 #EXTINF:-1 group-title="LIVE",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="LIVE",Thrill

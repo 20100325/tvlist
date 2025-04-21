@@ -38,6 +38,8 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1 group-title="LIVE",HBO 2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",Lifetime
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="LIVE",History
@@ -202,6 +204,10 @@ https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd1
 https://stream1.freetv.fun/53e62294ee965e9234d47cf2f3288922200c1a51603cb6bff8b668b5ad29ac70.m3u8
 #EXTINF:-1 group-title="LIVE",HLN
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="LIVE",SundanceTV
+https://fl5.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="LIVE",MTV U
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 group-title="中文",凤凰香港
 https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8

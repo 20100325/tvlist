@@ -56,8 +56,6 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="LIVE",Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="LIVE",Starz Encore East
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 group-title="LIVE",Starz Comedy East
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="LIVE",BBC America East
@@ -96,34 +94,12 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="LIVE",Crave 2
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="LIVE",HBOHD
-http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 #EXTINF:-1 group-title="LIVE",DISCOVERY
 http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:-1 group-title="LIVE",DISney Channel
 http://38.96.178.201/live/Disney/index.m3u8
 #EXTINF:-1 group-title="LIVE",DMAX
 http://50.7.234.10:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="LIVE",TSN-1
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6521/index.m3u8
-#EXTINF:-1 group-title="LIVE",TSN-2
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6492/index.m3u8
-#EXTINF:-1 group-title="LIVE",TSN-3
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6522/index.m3u8
-#EXTINF:-1 group-title="LIVE",TSN-4
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6445/index.m3u8
-#EXTINF:-1 group-title="LIVE",SportsNet
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/11108/index.m3u8
-#EXTINF:-1 group-title="LIVE",SN
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6439/index.m3u8
-#EXTINF:-1 group-title="LIVE",USA
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/1101/index.m3u8
-#EXTINF:-1 group-title="LIVE",A&E
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6419/index.m3u8
-#EXTINF:-1 group-title="LIVE",TLC
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6524/index.m3u8
-#EXTINF:-1 group-title="LIVE",CP24
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6501/index.m3u8
 #EXTINF:-1 group-title="LIVE",CNN
 https://stream1.freetv.fun/39c6d986c4ff60481338f0593a74b1591f279094cdaf90530103c792d0c93d4e.m3u8
 #EXTINF:-1 group-title="LIVE",NBA TV

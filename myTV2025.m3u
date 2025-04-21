@@ -26,16 +26,10 @@ http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",AMC
 http://143.244.60.97/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="LIVE",FX
-http://170.254.18.106/FX/index.m3u8
 #EXTINF:-1 group-title="LIVE",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="LIVE",Comedy Central
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
-#EXTINF:-1 group-title="LIVE",Bravo
-http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:-1 group-title="LIVE",VH-1
-http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 group-title="LIVE",TBS
 http://38.96.178.201:80/live/TBS/index.m3u8
 #EXTINF:-1 group-title="LIVE",FOX EAST
@@ -48,10 +42,6 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 group-title="LIVE",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="LIVE",FS1(backup)
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
-#EXTINF:-1 group-title="LIVE",FS2
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
 #EXTINF:-1 group-title="LIVE",Starz Encore Action East
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 group-title="LIVE",CBS Sports Network USA

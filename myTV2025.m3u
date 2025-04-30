@@ -33,7 +33,7 @@ http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 #EXTINF:-1 group-title="LIVE",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="LIVE",Comedy Central

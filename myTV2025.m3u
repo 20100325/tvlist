@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1 group-title="LIVE",NBA
+https://list.iptvcat.com/my_list/s/e04a50d712717a3d269011688d292e48.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News
@@ -26,7 +26,7 @@ http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 #EXTINF:-1 group-title="LIVE",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",AMC
-https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="LIVE",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="LIVE",Comedy Central

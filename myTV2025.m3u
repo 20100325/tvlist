@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE",ESPN
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7226/index.m3u8
-#EXTINF:-1 group-title="LIVE",NBA TV
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
+
 #EXTINF:-1 group-title="LIVE",ESPN +
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News
@@ -14,12 +11,8 @@ http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 http://38.96.178.201:80/live/ABCHD/index.m3u8
 #EXTINF:-1 group-title="LIVE",ABC NY
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 group-title="LIVE",ABC Denver
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 group-title="LIVE",ABC LA
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 group-title="LIVE",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="LIVE",TNT
 http://38.96.178.201/live/TNTHD/index.m3u8
 #EXTINF:-1 group-title="LIVE",TNT(BackUp)

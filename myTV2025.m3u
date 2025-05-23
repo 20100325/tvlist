@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE",NBA
-https://list.iptvcat.com/my_list/s/e04a50d712717a3d269011688d292e48.m3u8
+https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News

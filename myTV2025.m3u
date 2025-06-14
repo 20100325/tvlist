@@ -27,10 +27,10 @@ http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="LIVE",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="LIVE",Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="LIVE",AMC Thrillers
+https://stream1.freetv.fun/d5c1608ea86cd96c08ac93fbccf1a9c8b76c05b2c8e97fdcfc49124b95077d7a.ctv
 #EXTINF:-1 group-title="LIVE",Comedy Central
-http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="LIVE",TBS
 http://38.96.178.201:80/live/TBS/index.m3u8
 #EXTINF:-1 group-title="LIVE",FOX EAST
@@ -41,8 +41,8 @@ http://143.244.60.30/NBC_EAST/index.m3u8
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="LIVE",TCM EAST
 http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 group-title="LIVE",FOX SPORTS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="LIVE",AFN
+https://stream1.freetv.fun/478dee286aaffd139a81cb2ad05776b0c843f20c355eb31e186d5c1fd3f1eeba.ctv
 #EXTINF:-1 group-title="LIVE",Starz Encore Action East
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 group-title="LIVE",CBS Sports Network USA

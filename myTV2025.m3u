@@ -6,11 +6,13 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 group-title="LIVE",Animal Planet
-http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 group-title="LIVE",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 group-title="LIVE",ABC NY
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="LIVE",FOX BUSINESS
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 group-title="LIVE",CNBC
+http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 group-title="LIVE",ABC LA
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 group-title="LIVE",TNT

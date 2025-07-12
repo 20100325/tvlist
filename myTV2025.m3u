@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="LIVE",NBA
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 group-title="LIVE",Animal Planet

@@ -34,7 +34,7 @@ https://stream1.freetv.fun/d5c1608ea86cd96c08ac93fbccf1a9c8b76c05b2c8e97fdcfc491
 #EXTINF:-1 group-title="LIVE",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="LIVE",TBS
-http://38.96.178.201:80/live/TBS/index.m3u8
+http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="LIVE",FOX EAST
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="LIVE",NBC EAST

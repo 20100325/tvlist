@@ -2,6 +2,8 @@
 #EXTINF:-1 group-title="LIVE",NBA
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
+#EXTINF:-1 group-title="LIVE",ESPN(backup)
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News
 http://38.96.178.201:80/live/ESPNews/index.m3u8
@@ -11,14 +13,20 @@ http://41.205.93.154/ANIMALPLANET/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 group-title="LIVE",FOX BUSINESS
 http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 group-title="LIVE",FOX
+http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="LIVE",CNBC
 http://41.205.93.154/CNBC/index.m3u8
-#EXTINF:-1 group-title="LIVE",ABC LA
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="LIVE",NBC
+http://143.244.60.30/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="LIVE",CBS
+http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="LIVE",TNT
 http://38.96.178.201/live/TNTHD/index.m3u8
 #EXTINF:-1 group-title="LIVE",TNT(BackUp)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="LIVE",TCM
+http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 group-title="LIVE",Cinemax
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6155/index.m3u8
 #EXTINF:-1 group-title="LIVE",HBO Hits

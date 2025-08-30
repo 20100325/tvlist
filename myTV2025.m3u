@@ -2,9 +2,7 @@
 #EXTINF:-1 group-title="LIVE",NBA
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
-#EXTINF:-1 group-title="LIVE",ESPN(backup)
-http://41.205.93.154/ESPN/index.m3u8
+http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/19156/index.m3u8
 #EXTINF:-1 group-title="LIVE",ESPN News
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 group-title="LIVE",Animal Planet
@@ -137,6 +135,8 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="中文",TVB翡翠台J1
 https://stream1.freetv.fun/e16a1bea4e234258283e3047a47ff6d77412e2887af392c37e685e93f171117c.ctv
+#EXTINF:-1 group-title="中文",TVB翡翠台Plus
+https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 
 #EXTINF:-1 group-title="中文",TVB亚洲武侠
 https://stream1.freetv.fun/f0adb29a9585edc65496ab0f82abcd50f3596334fb38ee5c9e64b65003ed1601.ctv
@@ -393,3 +393,4 @@ https://stream1.freetv.fun/35afa74920f53491fd0b0d0b59d19ab68031b5ae3609ebf8371fd
 https://stream1.freetv.fun/9189ee5697a412ac3ab7ce133ad0b10f78941ea05a1aa58f3080f6c57d5c0c32.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 https://stream1.freetv.fun/28ec8c575a461279bf71bed75bce89aa23f34a7a2e74252f3331446589be19ae.m3u8
+

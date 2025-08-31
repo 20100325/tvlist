@@ -115,122 +115,69 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="国内",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="国内",湖南卫视
-http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
+#EXTINF:-1 group-title="国内",深圳卫视
+http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+#EXTINF:-1 group-title="国内",天津卫视
+http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
+#EXTINF:-1 group-title="国内",山东卫视
+http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
+#EXTINF:-1 group-title="国内",安徽卫视
+http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
+#EXTINF:-1 group-title="国内",四川卫视
+http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
+#EXTINF:-1 group-title="国内",贵州卫视
+http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
+#EXTINF:-1 group-title="国内",辽宁卫视
+http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
+#EXTINF:-1 group-title="国内",重庆卫视
+http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
+#EXTINF:-1 group-title="国内",海南卫视
+http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
+#EXTINF:-1 group-title="国内",青海卫视
+http://api.kkitv.itv888.cn:8080/hls/ry7s3t5wmqa/index.m3u8
+#EXTINF:-1 group-title="国内",东南卫视
+http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 #EXTINF:-1 group-title="国内",云南卫视
-https://stream1.freetv.fun/2a139391dea1353d84c78bb29512d3a91ed796950bf8ca94d14970a5f870592a.m3u8
-#EXTINF:-1 group-title="国内",黑龙江影视
-https://stream1.freetv.fun/5aa13d0b84257000c999f97fb9b77649d0eecc3f391c330f922e3161616150c1.m3u8
-#EXTINF:-1 group-title="国内",苏州影视
-https://stream1.freetv.fun/fafde2e2ddce7ed44d060788cdfccda12ab98d779fb6b89eedf45b52f71bcb9d.m3u8
-#EXTINF:-1 group-title="国内",绍兴新闻综合
-https://stream1.freetv.fun/77be9f0478b3c3ca9976da1ac9c6491cff34ef146d194002c07613570d84b89c.m3u8
-#EXTINF:-1 group-title="国内",绍兴文化影视
-https://stream1.freetv.fun/b2a4b57396d502b67061248476d1035ba9e0b8541cc88cd61daed318d9fd684f.m3u8
-#EXTINF:-1 group-title="国内",广州影视
-https://stream1.freetv.fun/58e892571fd49d7cef6dfae6f1b119093c5eef4ac0a307a2cc23432e94ac7b6d.ctv
-#EXTINF:-1 group-title="国内",安徽影视
-https://stream1.freetv.fun/ead31f3cab11d4081b354fc79dee6c240bcb398a03a8d08b897d21f00c718441.m3u8
-#EXTINF:-1 group-title="国内",四川科教
-https://stream1.freetv.fun/dd26f57be074ce07e1fb0d357b9bff2846bd030575df792d54abb4299ba5ada0.m3u8
-#EXTINF:-1 group-title="国内",西宁新闻综合
-https://stream1.freetv.fun/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8
-#EXTINF:-1 group-title="国内",临沂综合
-https://stream1.freetv.fun/70d9384786a5e1d8f973af3bab5643406bda0c89a7008eb6f322bb4c7ef9eb49.m3u8
-#EXTINF:-1 group-title="国内",南宁文旅生活
-https://stream1.freetv.fun/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8
-#EXTINF:-1 group-title="国内",海口2
-https://stream1.freetv.fun/c2b30d0963807eb5cf7c119f8b13642737acbaba5791e64f1ee5e0838d8b1bbf.m3u8
-#EXTINF:-1 group-title="国内",苍南新闻综合
-https://stream1.freetv.fun/26867513b7f55113a68877d1621cb693f3a0215871841c667b1eb55924ebafa7.m3u8
-#EXTINF:-1 group-title="国内",永嘉新闻综合
-https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8
-#EXTINF:-1 group-title="国内",东莞新闻综合
-https://stream1.freetv.fun/43c9c29ffd7ea98ad212c50ca985141fe13dd5608397f3f572141fcdd05ccd3a.m3u8
-#EXTINF:-1 group-title="国内",珲春新闻综合
-https://stream1.freetv.fun/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8
-#EXTINF:-1 group-title="国内",绍兴公共频道
-https://stream1.freetv.fun/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8
-#EXTINF:-1 group-title="国内",枣庄公共频道
-https://stream1.freetv.fun/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8
-#EXTINF:-1 group-title="国内",南宁公共频道
-https://stream1.freetv.fun/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8
-#EXTINF:-1 group-title="国内",南宁影视娱乐
-https://stream1.freetv.fun/7f8aa73d44239f9ebdcead270be997b2549c4af141aada09606f7ccc14e38830.m3u8
-#EXTINF:-1 group-title="国内",德阳新闻综合
-https://stream1.freetv.fun/9a0ac741c616714bd84f497d566c39f4ea76e9b1dbb23aa046eb25b8f43c556d.m3u8
-#EXTINF:-1 group-title="国内",漳州新闻综合
-https://stream1.freetv.fun/8aedf201890b0ba56f070e84708aa5418c7eaec7735d091c1c3769226025759f.m3u8
-#EXTINF:-1 group-title="国内",宜兴新闻综合
-https://stream1.freetv.fun/91bea3373d1f26be291bcbc5877162ec349c1c71f82f22230165354e890c6a17.m3u8
-#EXTINF:-1 group-title="国内",乌海新闻综合
-https://stream1.freetv.fun/70f34e395a3ad3bed2026b85d131ce4c546c1a90efbace5bdd88fc3ae6c7e27b.m3u8
-#EXTINF:-1 group-title="国内",叙州新闻综合
-https://stream1.freetv.fun/dd77fc6560a955ead4b6bda2d962c196cd6ca56795161e1680c8336a475bdb0f.m3u8
-#EXTINF:-1 group-title="国内",萧山新闻综合
-https://stream1.freetv.fun/cede68951d48333a2399042d97d25182fc83beb5887aa2b690e71cfcfd4b883f.m3u8
-#EXTINF:-1 group-title="国内",镇江新闻综合
-https://stream1.freetv.fun/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
-#EXTINF:-1 group-title="国内",苍南新闻综合
-https://stream1.freetv.fun/26867513b7f55113a68877d1621cb693f3a0215871841c667b1eb55924ebafa7.m3u8
-#EXTINF:-1 group-title="国内",广安新闻综合
-https://stream1.freetv.fun/b778266ea65e9ea74520cfcc77f05280df219c2527795ef56452e8f18294db4c.m3u8
-#EXTINF:-1 group-title="国内",上虞新闻综合
-https://stream1.freetv.fun/cc9b034338cd7d9d50e7f933bab05f013a19ad08b1afdd3380985b13665e09fe.m3u8
-#EXTINF:-1 group-title="国内",徐州新闻综合
-https://stream1.freetv.fun/3abd29820eb4714fbe4c1ddb435f8aacb554f0f13a1ecde82d407ff4a3ace7b4.m3u8
-#EXTINF:-1 group-title="国内",上虞文化影视
-https://stream1.freetv.fun/fed964756a0d4e488e79e95415e911f8f4cf3e5c6e66d654736747fa55856154.m3u8
-#EXTINF:-1 group-title="国内",漳州新闻综合
-https://stream1.freetv.fun/8aedf201890b0ba56f070e84708aa5418c7eaec7735d091c1c3769226025759f.m3u8
-#EXTINF:-1 group-title="国内",临沂公共频道
-https://stream1.freetv.fun/21e8aca669dcf00c4fdb1e832f89ba731cf1e432dda27be7852dd29dfc7ab2a4.m3u8
-#EXTINF:-1 group-title="国内",临沂经济
-https://stream1.freetv.fun/b7a9effac5e570d4e8b32c910b72758a3400e5c449fe83071eec706054666ddc.m3u8
-#EXTINF:-1 group-title="国内",义乌新闻
-https://stream1.freetv.fun/9406fbf54133d1fe56dad9e979ede745f39a5ecd64b1ba3705c60a33ca5cc815.m3u8
-#EXTINF:-1 group-title="国内",电影1
-https://stream1.freetv.fun/5c693d02fbac9b02113e3bb4ebddce55d22eda3732ea2bf703a22cf9adeb84fe.ctv
-#EXTINF:-1 group-title="国内",电影2
-https://stream1.freetv.fun/2f831d19caaa6c4d99e4689511870eab83b533f70660fee66d8e438d7ac30118.ctv
-#EXTINF:-1 group-title="国内",电影3
-https://stream1.freetv.fun/ab5c996dbc40d1fc2ec21c2e3a824de7dbe0895f09cc669e58c8be7e9848e3bd.ctv
-#EXTINF:-1 group-title="国内",电影4
-https://stream1.freetv.fun/2f8689eee660c1f18ccae8099c2b5e903c6edeeece2edcae77b865579660d277.ctv
-#EXTINF:-1 group-title="国内",电影5
-https://stream1.freetv.fun/7fcca47a3ecd9bbc7d318912e424853b8bf4a2c9923515e8666174d6157aa378.ctv
-#EXTINF:-1 group-title="国内",电影6
-https://stream1.freetv.fun/a59184989a80c391cbe1000b40b9cdd579a457992ef007cf454026c60aa66594.ctv
-#EXTINF:-1 group-title="国内",电影7
-https://stream1.freetv.fun/a0da0d1da0301b782ac9ca46bcf45f2d01961853ed569b7c13b71144def58704.ctv
-#EXTINF:-1 group-title="国内",电影8
-https://stream1.freetv.fun/4e0d7462f68a1bdecfdf337898b6f9d8e32352d2d4de3d652743ebe12d28169b.ctv
-#EXTINF:-1 group-title="国内",电影9
-https://stream1.freetv.fun/8d8931e3b96a0e0b157b4a8c7890dc185e1308b376c1812f76a94abfac859384.ctv
-#EXTINF:-1 group-title="国内",电影10
-https://stream1.freetv.fun/61592876f0b9a36f2fcb702d8a9e26bd92473fe429cee373348b4e4c7cc34487.ctv
-#EXTINF:-1 group-title="国内",电影11
-https://stream1.freetv.fun/ea37c5827a99ae8e5c96df3f5bc7713e8bd9b4a58743e7fbe36bac88ae6b5e30.ctv
-#EXTINF:-1 group-title="国内",电影12
-https://stream1.freetv.fun/400d116009fccaf03dabd9cb1d93bc043c24672794fd955ad84c82e74a9abf93.m3u8
-#EXTINF:-1 group-title="国内",电影13
-https://stream1.freetv.fun/7899b02a85e26efde2dc6de49a67cca12316de341a9d5c475e3e8a234f7ba335.m3u8
-#EXTINF:-1 group-title="国内",电影14
-https://stream1.freetv.fun/97bca49a872ca434b8d81d5aecc71425ac67b3b7c232289dc75f0b6aadb820e6.ctv
-#EXTINF:-1 group-title="国内",电影15
-https://stream1.freetv.fun/625050f9d7e398ada84782f3315c1644a070f89bcaa5122153ca905bc53c3c51.ctv
-#EXTINF:-1 group-title="国内",电影16
-https://stream1.freetv.fun/739ff1f0a7d94ece7c8fd235f39d56a0a0af45670a5881abd91de9656452278c.ctv
-#EXTINF:-1 group-title="国内",电影17
-https://stream1.freetv.fun/ed63a96548731c34ef7833f5777f36fa2a849e2c1a8d1892dae45d7449677742.ctv
-#EXTINF:-1 group-title="国内",电影18
-https://stream1.freetv.fun/0b6297dec03a45a5e8fe676346212918674a89213dfdf4566096049f86bc7744.ctv
-#EXTINF:-1 group-title="国内",电影19
-https://stream1.freetv.fun/cc0f2407b7c4d8e071c9161f302e952a0e0cea58b8d52e6c8f2cece6bd708f62.ctv
-#EXTINF:-1 group-title="国内",电影20
-https://stream1.freetv.fun/9a2835bb6eec1c40a1eaeb5902190e0a5445f728419f1a71a696449ccfd2ae08.ctv
-#EXTINF:-1 group-title="国内",电影21
-https://stream1.freetv.fun/528de1c83814f92f0f0eafe52dc0bd723e2bb5fd1f61720b890d0914eb4da861.ctv
+http://api.kkitv.itv888.cn:8080/hls/jwvhleddq5/index.m3u8
+#EXTINF:-1 group-title="国内",厦门卫视
+http://api.kkitv.itv888.cn:8080/hls/9bc9p47rpbq/index.m3u8
+#EXTINF:-1 group-title="国内",河南卫视
+http://api.kkitv.itv888.cn:8080/hls/zkb0p6ypy6o/index.m3u8
+#EXTINF:-1 group-title="国内",河北卫视
+http://api.kkitv.itv888.cn:8080/hls/nd41hwdr82i/index.m3u8
+#EXTINF:-1 group-title="国内",陕西卫视
+http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8
+#EXTINF:-1 group-title="国内",山西卫视
+http://api.kkitv.itv888.cn:8080/hls/8c66y3d5kp8/index.m3u8
+#EXTINF:-1 group-title="国内",甘肃卫视
+http://api.kkitv.itv888.cn:8080/hls/lcceocfdwh/index.m3u8
+#EXTINF:-1 group-title="国内",吉林卫视
+http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
+#EXTINF:-1 group-title="国内",江苏卫视
+http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
+#EXTINF:-1 group-title="国内",江西卫视
+http://api.kkitv.itv888.cn:8080/hls/pv0np60bpin/index.m3u8
+#EXTINF:-1 group-title="国内",湖南卫视
+http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
+#EXTINF:-1 group-title="国内",广东卫视
+http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+#EXTINF:-1 group-title="国内",北京卫视
+http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
+#EXTINF:-1 group-title="国内",湖北卫视
+http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
+#EXTINF:-1 group-title="国内",广西卫视
+http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+#EXTINF:-1 group-title="国内",安多卫视
+http://api.kkitv.itv888.cn:8080/hls/in5vcs8br9q/index.m3u8
+#EXTINF:-1 group-title="国内",黑龙江卫视
+http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
+#EXTINF:-1 group-title="国内",内蒙古卫视
+http://api.kkitv.itv888.cn:8080/hls/t4wf5047i/index.m3u8
+#EXTINF:-1 group-title="国内",大湾区卫视
+http://api.kkitv.itv888.cn:8080/hls/6j35u272pak/index.m3u8
+#EXTINF:-1 group-title="国内",山东教育卫视
+http://api.kkitv.itv888.cn:8080/hls/y5rpiddjcqf/index.m3u8
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -262,6 +209,7 @@ http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV16
 http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+
 
 
 

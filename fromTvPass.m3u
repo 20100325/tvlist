@@ -1,0 +1,50 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 group-title="LIVE",ABC NY
+https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=ITu3PgcsH7-d86zUT8NfMQ&expires=1758396450&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",ABC LA
+https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=i7uQJtR2eVSP5V1hUAIiuw&expires=1758396697&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",ACCN
+https://e3.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=P7tGL8aD95zoCSqnQOcEUw&expires=1758396811&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",AMC
+https://v13.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=862TbIU5ET3S8gnWl6sqZw&expires=1758397073&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",BBC AMERICA
+https://v1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=-VTnrgbeCuBac_olWR_Jvg&expires=1758397308&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",BBC NEWS
+https://v3.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=nvoFiLT7yHMRru5D52Zx9w&expires=1758397574&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",BET
+https://v5.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8?token=PL4qliKZRphF_AEG0amdTA&expires=1758397672&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",BET HER
+https://v16.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8?token=zKJWMoSNULPfGcdQ9HPwwg&expires=1758397707&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Bloomberger
+https://v15.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=mxgCQbcD7WO42bSIkMyzjw&expires=1758397954&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Bravo
+https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8?token=BSK8iI3RTlaTtsWVZmFHBA&expires=1758398008&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",CBS LA
+https://e4.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8?token=viC_JI28zlzwhoRBnvRbcw&expires=1758398074&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",CBS NY
+https://e2.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=Z5cyupcwD3olsnZz2o_4GQ&expires=1758398120&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",CBS sports
+https://e3.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=gq0Y5gOZmNdw3jgAS0R6ng&expires=1758398176&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Chicago Sports
+https://v17.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8?token=LKdyRfRPItHkyx2uP_iLAQ&expires=1758398466&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Cinemax
+https://v17.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=vsD0DiIsZ0k7rVc-9yUOhQ&expires=1758398532&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",CNBC
+https://v5.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=ht7SL96oUtwLpHe0vp9p1g&expires=1758398585&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",CNN
+https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=cYGLRuzPVEvkbIaVNYTywQ&expires=1758398625&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Comedy Central
+https://v2.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8?token=2m-oCF8m4D4wpQhzvlB3XA&expires=1758398668&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Discovery
+https://v18.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=E-w6NKeKswJUEG4VS2tsVQ&expires=1758398768&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",Discovery Life
+https://v1.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=yHhEpUQN3FDscTHMvcbYKg&expires=1758398818&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",ESPN
+https://v14.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=2MmTNtB96BQzYBpC-Yb5kA&expires=1758398908&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",ESPN NEWS
+https://v14.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8?token=QB3qWizT3oOQCDG_FpG0Xg&expires=1758398954&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",ESPN U
+https://v17.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8?token=pSvSzwMmQ02voHeHObv7QA&expires=1758398987&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 group-title="LIVE",ESPN 2
+https://v13.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=mAcn3Up-vGDuL33vZggDsQ&expires=1758399026&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==

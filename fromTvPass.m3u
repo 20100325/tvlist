@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/KABC-TV?file=KABC-TV_%282021%29.svg" group-title="LIVE",ABC NY
+#EXTINF:-1 tvg-name="ABCNY" tvg-logo="https://logos.fandom.com/wiki/KABC-TV?file=KABC-TV_%282021%29.svg" group-title="LIVE",ABC NY
 https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=ITu3PgcsH7-d86zUT8NfMQ&expires=1758396450&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",ABC LA
 https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=i7uQJtR2eVSP5V1hUAIiuw&expires=1758396697&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
@@ -160,6 +160,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

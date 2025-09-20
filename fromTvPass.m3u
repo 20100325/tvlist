@@ -18,7 +18,7 @@ https://v13.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=862TbIU5ET3S8gnW
 #EXTINF:-1 tvg-name="BBCAMERICA" tvg-logo="https://i.postimg.cc/xjJ24rLB/bbcamerica.png" group-title="LIVE",BBC AMERICA
 https://v1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=-VTnrgbeCuBac_olWR_Jvg&expires=1758397308&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
-#EXTINF:-1 tvg-name="BBCNEWS" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="LIVE",BBC NEWS
+#EXTINF:-1 tvg-name="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="LIVE",BBC NEWS
 https://v3.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=nvoFiLT7yHMRru5D52Zx9w&expires=1758397574&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
 #EXTINF:-1tvg-name="BET" tvg-logo="https://i.imgur.com/KG3CzsF.png" group-title="LIVE",BET
@@ -171,6 +171,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

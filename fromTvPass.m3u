@@ -4,7 +4,7 @@
 https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=ITu3PgcsH7-d86zUT8NfMQ&expires=1758396450&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
 #EXTINF:-1 tvg-name="ABCLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="LIVE",ABC LA
-https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=i7uQJtR2eVSP5V1hUAIiuw&expires=1758396697&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+https://e3.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8?token=nv5sqHl745KQRu07TFZlpA&expires=1758422919&user_id=YjJOT3ZHWGp6Z3VyV0d6emxMWEM3U2x3T2hJVENvdVRoU00zRTZVTA==
 
 #EXTINF:-1 tvg-name="ACCN" tvg-logo="https://i.imgur.com/TpCkbkT.png"group-title="LIVE",ACCN
 https://e3.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=P7tGL8aD95zoCSqnQOcEUw&expires=1758396811&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
@@ -168,6 +168,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

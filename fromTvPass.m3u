@@ -51,12 +51,15 @@ https://v18.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=5i6McUKEcLHg
 #EXTINF:-1 tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Country_Music_Television_logo_%282000_variant%29.svg/400px-Country_Music_Television_logo_%282000_variant%29.svg.png" group-title="LIVE",CMT US
 https://v8.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8?token=ccTGr4I4AjmKN6CIGgMuBA&expires=1758437257&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
-#EXTINF:-1 group-title="LIVE",CNBC
-https://v5.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=ht7SL96oUtwLpHe0vp9p1g&expires=1758398585&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",CNN
-https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=cYGLRuzPVEvkbIaVNYTywQ&expires=1758398625&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",Comedy Central
-https://v2.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8?token=2m-oCF8m4D4wpQhzvlB3XA&expires=1758398668&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/330px-CNBC_2023.svg.png" group-title="LIVE",CNBC
+https://v18.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=T1B8aU_dsiJECAv8vPBiOg&expires=1758438256&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png" group-title="LIVE",CNN
+https://v8.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8?token=OSScCSJ3AHzH2L7gMkKFJQ&expires=1758438398&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="LIVE",Comedy Central
+https://v1.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=facFtXbscj-0JgxF39GEwA&expires=1758438486&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
 #EXTINF:-1 group-title="LIVE",Discovery
 https://v18.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=E-w6NKeKswJUEG4VS2tsVQ&expires=1758398768&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",Discovery Life
@@ -181,6 +184,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

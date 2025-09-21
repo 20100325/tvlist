@@ -42,8 +42,9 @@ https://e2.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=Z5cyupcwD3olsnZz2
 #EXTINF:-1 tvg-name="CBSSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CBS_Sports_%282021%29.svg/330px-CBS_Sports_%282021%29.svg.png" group-title="LIVE",CBS sports
 https://e3.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=gq0Y5gOZmNdw3jgAS0R6ng&expires=1758398176&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
-#EXTINF:-1 group-title="LIVE",Chicago Sports
-https://v17.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8?token=LKdyRfRPItHkyx2uP_iLAQ&expires=1758398466&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 tvg-name="CHICAGOSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="LIVE",Chicago Sports
+https://v2.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8?token=KUtclLlziZKAfMviShrB6A&expires=1758436550&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
 #EXTINF:-1 group-title="LIVE",Cinemax
 https://v17.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=vsD0DiIsZ0k7rVc-9yUOhQ&expires=1758398532&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",CNBC
@@ -176,6 +177,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

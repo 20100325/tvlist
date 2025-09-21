@@ -96,12 +96,15 @@ https://v5.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=gIKOWqhy47qdLu
 #EXTINF:-1 tvg-name="FREEFORM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Freeform.svg/640px-Freeform.svg.png" group-title="LIVE",FreeForm
 https://v1.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8?token=5aBg9b2OWTupG4Gyi2D-yg&expires=1758445501&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
-#EXTINF:-1 group-title="LIVE",FOX Movie
-https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8?token=n4RZlXwyJiJzE8ewh1GAFA&expires=1758400766&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",FOX EAST
-https://v16.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=exoRd-U1SdVHwu2s70c03A&expires=1758400811&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",HBO
-https://v1.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=ZkuTQcuGVkiw81r3qiVwDQ&expires=1758400999&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 tvg-name="FOXMOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png" group-title="LIVE",FOX Movie
+https://e3.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8?token=YaRBPb5gYj-MGu89BGxHTQ&expires=1758446359&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="FOXEAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fox_Entertainment.svg/960px-Fox_Entertainment.svg.png" group-title="LIVE",FOX EAST
+https://e3.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8?token=6qD7Ep5gw3I2nYWA3br5xA&expires=1758446402&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" group-title="LIVE",HBO
+https://e1.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8?token=Dgxvkv3uE3O4E1q9NwN4LQ&expires=1758446445&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
 #EXTINF:-1 group-title="LIVE",HBO Comedy
 https://v14.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=SgBczX2zXaPCTnUdfI1XSg&expires=1758401026&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",HBO ZONE
@@ -196,6 +199,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

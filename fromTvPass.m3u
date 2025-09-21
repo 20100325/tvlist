@@ -60,12 +60,15 @@ https://v8.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8?token=OSScCSJ3AHzH2L7gMkKFJ
 #EXTINF:-1 tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="LIVE",Comedy Central
 https://v1.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=facFtXbscj-0JgxF39GEwA&expires=1758438486&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
-#EXTINF:-1 group-title="LIVE",Discovery
-https://v18.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=E-w6NKeKswJUEG4VS2tsVQ&expires=1758398768&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",Discovery Life
-https://v1.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=yHhEpUQN3FDscTHMvcbYKg&expires=1758398818&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",ESPN
-https://v14.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=2MmTNtB96BQzYBpC-Yb5kA&expires=1758398908&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png" group-title="LIVE",Discovery
+https://e3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8?token=5yONB1nmOg2rG0u9ZaXb-A&expires=1758443674&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="DISCOVERYLIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/960px-Discovery_Life_logo.svg.png" group-title="LIVE",,Discovery Life
+https://v5.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8?token=tAFbgqIo1jbYI5jpXU0ptw&expires=1758443936&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="LIVE",ESPN
+https://e5.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=zgKTkmhW3sMuiMdewsihBw&expires=1758444101&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
 #EXTINF:-1 group-title="LIVE",ESPN NEWS
 https://v14.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8?token=QB3qWizT3oOQCDG_FpG0Xg&expires=1758398954&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",ESPN U
@@ -184,6 +187,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

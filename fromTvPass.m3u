@@ -18,17 +18,17 @@ https://v15.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=sMsWgEJkMO-Y41Dn
 #EXTINF:-1 tvg-name="BBCAMERICA" tvg-logo="https://i.postimg.cc/xjJ24rLB/bbcamerica.png" group-title="LIVE",BBC AMERICA
 https://v13.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=M3moVVLwmI_9fJIjeDuLdA&expires=1758435038&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
-#EXTINF:-1 tvg-name="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/400px-BBC_News_%282008%29.svg.png" group-title="LIVE",BBC NEWS
+#EXTINF:-1 tvg-name="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/250px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="LIVE",BBC NEWS
 https://e4.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8?token=i05Ll3clSzRBOGvLbcmvGw&expires=1758434229&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
 #EXTINF:-1tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BET_logo_2010-2021.svg/330px-BET_logo_2010-2021.svg.png" group-title="LIVE",BET
 https://v15.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8?token=DcmT31aSt2MbJIlymDhz-w&expires=1758434297&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
 #EXTINF:-1 tvg-name="BETHER" tvg-logo="https://i.postimg.cc/wjcHQhDv/bether.png" group-title="LIVE",BET HER
-https://v16.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8?token=zKJWMoSNULPfGcdQ9HPwwg&expires=1758397707&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+https://e1.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8?token=wY9NiLHby0qUfFwbqNokhg&expires=1758435356&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
 #EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bloomberg_Television-alt.svg/330px-Bloomberg_Television-alt.svg.png" group-title="LIVE",Bloomberg TV
-https://v15.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=mxgCQbcD7WO42bSIkMyzjw&expires=1758397954&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+https://v17.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8?token=ZoMBj7x8H7751upKYSJ9bA&expires=1758435390&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 #EXTINF:-1 group-title="LIVE",Bravo
 https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8?token=BSK8iI3RTlaTtsWVZmFHBA&expires=1758398008&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",CBS LA
@@ -171,6 +171,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

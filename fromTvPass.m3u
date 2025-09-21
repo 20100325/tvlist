@@ -18,7 +18,7 @@ https://v15.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=sMsWgEJkMO-Y41Dn
 #EXTINF:-1 tvg-name="BBCAMERICA" tvg-logo="https://i.postimg.cc/xjJ24rLB/bbcamerica.png" group-title="LIVE",BBC AMERICA
 https://v13.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=M3moVVLwmI_9fJIjeDuLdA&expires=1758435038&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
-#EXTINF:-1 tvg-name="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="LIVE",BBC NEWS
+#EXTINF:-1 tvg-name="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/250px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="LIVE",BBC NEWS
 https://e4.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8?token=i05Ll3clSzRBOGvLbcmvGw&expires=1758434229&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
 
 #EXTINF:-1tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BET_logo_2010-2021.svg/330px-BET_logo_2010-2021.svg.png" group-title="LIVE",BET
@@ -171,6 +171,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

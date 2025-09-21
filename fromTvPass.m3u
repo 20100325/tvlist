@@ -87,12 +87,15 @@ https://v3.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=q3aL8CKXPJ2lg7i6p
 #EXTINF:-1 tvg-name="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Channel_logo.png/960px-Fox_News_Channel_logo.png" group-title="LIVE",FOX NEWS
 https://e3.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=txeZ9tLrS7OFf8vx3fyMUQ&expires=1758400540&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
-#EXTINF:-1 group-title="LIVE",FOX SPORTS 1
-https://v3.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=8QvPYnhyXRGWUTqufke8HQ&expires=1758400567&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",FOX SPORTS 2
-https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=5D2U0IZKjvtnaLXTiVylsA&expires=1758400649&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
-#EXTINF:-1 group-title="LIVE",FreeForm
-https://v13.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8?token=Bjs_14UkMqi7526nPFWdNQ&expires=1758400679&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+#EXTINF:-1 tvg-name="FOXSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_sports_1_10s.png/640px-Fox_sports_1_10s.png" group-title="LIVE",FOX SPORTS 1
+https://e2.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=_ekWHUiB60_Lq5s67dkQIA&expires=1758445458&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Fox_sports_2_usa.jpg" group-title="LIVE",FOX SPORTS 2
+https://v5.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=gIKOWqhy47qdLuCaB9z_oA&expires=1758445478&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
+#EXTINF:-1 tvg-name="FREEFORM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Freeform.svg/640px-Freeform.svg.png" group-title="LIVE",FreeForm
+https://v1.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8?token=5aBg9b2OWTupG4Gyi2D-yg&expires=1758445501&user_id=TzBSSVpJc21PbXpBMG8wT0FidEYxdmZQdmhsY3hncXQ5WnVSR012YQ==
+
 #EXTINF:-1 group-title="LIVE",FOX Movie
 https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8?token=n4RZlXwyJiJzE8ewh1GAFA&expires=1758400766&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",FOX EAST
@@ -193,6 +196,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

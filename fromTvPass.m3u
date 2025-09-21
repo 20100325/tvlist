@@ -39,7 +39,7 @@ https://e4.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8?token=v
 #EXTINF:-1 tvg-name="CBSNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CBS_Eye_%28Didot%29.svg/330px-CBS_Eye_%28Didot%29.svg.png" group-title="LIVE",CBS NY
 https://e2.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=Z5cyupcwD3olsnZz2o_4GQ&expires=1758398120&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
-#EXTINF:-1 tvg-name="CBSSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CBS_Sports_2016_logo.svg/330px-CBS_Sports_2016_logo.svg.png" group-title="LIVE",CBS sports
+#EXTINF:-1 tvg-name="CBSSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CBS_Sports_%282021%29.svg/330px-CBS_Sports_%282021%29.svg.png" group-title="LIVE",CBS sports
 https://e3.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=gq0Y5gOZmNdw3jgAS0R6ng&expires=1758398176&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 
 #EXTINF:-1 group-title="LIVE",Chicago Sports
@@ -176,6 +176,7 @@ https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5O_10NLKP7Nb4Kaer
 https://e1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=aNSvL7yl44qrpfT-8uI-sg&expires=1758404619&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
 #EXTINF:-1 group-title="LIVE",YES Network
 https://e4.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8?token=Zou1PBNAJMsEo87fjxrrzA&expires=1758404728&user_id=QWllbXExUEl1ZWhvUjlXUlh0bGtFZUNsZHdTamY3bEJkclFSZkdBbw==
+
 
 
 

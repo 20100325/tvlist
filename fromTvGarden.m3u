@@ -86,7 +86,7 @@ https://fl7.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-name="GAMESHOWCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/960px-Game_Show_Central.svg.png" group-title="USA",Game Show Central
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/960px-Game_Show_Central.svg.png" group-title="USA",History
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png" group-title="USA",History
 https://fl7.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 tvg-name="MGMPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MGM_2021.svg/960px-MGM_2021.svg.png" group-title="USA",MGM+
@@ -205,4 +205,5 @@ https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+
 

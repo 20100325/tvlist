@@ -98,7 +98,7 @@ https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png" group-title="USA",MLB
 https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="moviesphere" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MovieSphere_Gold_2025_logo.svg.png" group-title="USA",MovieSphere
+#EXTINF:-1 tvg-name="moviesphere" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/MovieSphere_horizontal_with_tagline.png" group-title="USA",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-name="NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/640px-NBA_script.svg.png" group-title="USA",NBA TV
@@ -205,6 +205,7 @@ https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

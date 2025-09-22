@@ -44,8 +44,8 @@ https://fl7.moveonjoy.com/CNBC/index.m3u8
 https://fl7.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-name="COMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="USA",Comet
-#EXTINF:-1 tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/640px-Comet_logo.svg.png" group-title="USA",Comedy Central
-https://fl7.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-name="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/640px-Comet_logo.svg.png" group-title="USA",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-name="EBONY" tvg-logo="https://variety.com/wp-content/uploads/2023/10/ebony-tv-lionsgate.png?w=1000&h=562&crop=1" group-title="USA",EBONY
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
@@ -205,3 +205,4 @@ https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+

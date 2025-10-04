@@ -164,6 +164,9 @@ https://livetv-fa.tubi.video/wbd-how-to/playlist.m3u8
 #EXTINF:-1 tvg-name="WBWATCHLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warner_Bros._Television_2023_%28Alt%29.svg/960px-Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="USA",WBTV WATCHLIST
 https://livetv-fa.tubi.video/wbd-watch-list/playlist.m3u8
 
+#EXTINF:-1 tvg-name="WETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/640px-Wetv-july-2024-logo.svg.png" group-title="USA",WETV
+https://fl25.moveonjoy.com/WE_TV/index.m3u8
+
 #EXTINF:-1 tvg-name="CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/960px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="USA",CW
 https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 
@@ -205,6 +208,7 @@ https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

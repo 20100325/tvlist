@@ -17,7 +17,7 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 https://fl25.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-name="BETHER" tvg-logo="https://i.postimg.cc/wjcHQhDv/bether.png" group-title="USA",BET HER
-https://fl7.moveonjoy.com/BET_HER/index.m3u8
+https://fl41.moveonjoy.com/BET_HER/index.m3u8
 
 #EXTINF:-1 tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/330px-Bravo_2024.svg.png" group-title="USA",Bravo
 https://fl25.moveonjoy.com/BRAVO/index.m3u8
@@ -208,6 +208,7 @@ https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

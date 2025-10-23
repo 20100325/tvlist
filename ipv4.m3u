@@ -477,6 +477,8 @@ http://iptv.jxpan.vip:18888/aio/huya/23734256
 http://iptv.jxpan.vip:18888/aio/huya/23903183
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="埋堆堆频道",金枝欲孽
 http://iptv.jxpan.vip:18888/aio/huya/29465847
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/ 29465848&huya&logo" group-title="•虎牙「影视」",电视精彩连续剧
+https://live.iill.top/huya/ 29465848
 
 #点播电影
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="点播电影",倩女幽魂妖魔道

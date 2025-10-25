@@ -149,6 +149,9 @@ https://fl41.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SYFY_Network.png" group-title="USA",SYFY
 https://fl41.moveonjoy.com/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/620px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-name="UniversalAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="USA",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master_4.m3u8
 
@@ -208,6 +211,7 @@ https://fl41.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

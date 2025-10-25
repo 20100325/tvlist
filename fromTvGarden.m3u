@@ -14,7 +14,7 @@ https://raycom-accdn-firetv.amagi.tv/720p-cc/index.m3u8
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BET_logo_2010-2021.svg/330px-BET_logo_2010-2021.svg.png" group-title="USA",BET
-https://fl25.moveonjoy.com/BET_EAST/index.m3u8
+https://streamer1.nexgen.bz/BET/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="BETHER" tvg-logo="https://i.postimg.cc/wjcHQhDv/bether.png" group-title="USA",BET HER
 https://fl41.moveonjoy.com/BET_HER/index.m3u8
@@ -87,7 +87,7 @@ https://streamer1.nexgen.bz/FX/tracks-v1a1/mono.ts.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png" group-title="USA",History
-https://fl41.moveonjoy.com/history_channel/index.m3u8
+https://streamer1.nexgen.bz/HISTORY/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="MGMPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MGM_2021.svg/960px-MGM_2021.svg.png" group-title="USA",MGM+
 https://fl41.moveonjoy.com/EPIX/index.m3u8
@@ -208,6 +208,7 @@ https://fl41.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

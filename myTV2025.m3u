@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="LIVE",ESPN
-http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/19156/index.m3u8
+#EXTINF:-1 group-title="LIVE",BET
+https://streamer1.nexgen.bz/BET/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="LIVE",Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 group-title="LIVE",ABC NEWS
@@ -218,6 +218,7 @@ http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV16
 http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+
 
 
 

@@ -20,7 +20,7 @@ https://streamer1.nexgen.bz/BET/tracks-v1a1/mono.ts.m3u8
 https://fl41.moveonjoy.com/BET_HER/index.m3u8
 
 #EXTINF:-1 tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/330px-Bravo_2024.svg.png" group-title="USA",Bravo
-https://fl25.moveonjoy.com/BRAVO/index.m3u8
+https://streamer1.nexgen.bz/BRAVO/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="BRAVOVAULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/640px-Bravo_TV.svg.png" group-title="USA",Bravo Vault
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master_4.m3u8
@@ -156,7 +156,7 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master_4.m3u8
 https://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/960px-VH1_logo.svg.png" group-title="USA",VH1
-https://fl41.moveonjoy.com/VH1/index.m3u8
+https://streamer1.nexgen.bz/VH1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="WBHOWTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warner_Bros._Television_2023_%28Alt%29.svg/960px-Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="USA",WBTV HOWTO
 https://livetv-fa.tubi.video/wbd-how-to/playlist.m3u8
@@ -208,6 +208,7 @@ https://fl41.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

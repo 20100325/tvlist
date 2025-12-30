@@ -123,7 +123,7 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_4.m3u8
 https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="NHL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/960px-NHL_Network_2012.svg.png" group-title="USA",NHL
-https://livetv-fa.tubi.video/nhl/playlist720p.m3u8
+https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ParamountNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/640px-Paramount_Network_2024.svg.png" group-title="USA",Paramount Network
 https://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
@@ -211,6 +211,7 @@ https://fl41.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

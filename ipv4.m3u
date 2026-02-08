@@ -24,27 +24,27 @@ https://play-qukan.cztv.com/live/1746687519046362.m3u8
 
 #央视高清
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视高清",CCTV1
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078201_dlna.m3u8
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视高清",CCTV2
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075401_dlna.m3u8
+http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="央视高清",CCTV3
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068501_dlna.m3u8
+http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视高清",CCTV4
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029797101_dlna.m3u8
+http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="央视高清",CCTV5
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视高清",CCTV5+
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="央视高清",CCTV6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视高清",CCTV7
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072001_dlna.m3u8
+http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="央视高清",CCTV8
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029793001_dlna.m3u8
+http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视高清",CCTV9
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078601_dlna.m3u8
+http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视高清",CCTV10
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078701_dlna.m3u8
+http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视高清",CCTV11
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027248701_dlna.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视高清",CCTV12

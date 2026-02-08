@@ -2,14 +2,11 @@
 #4K频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
 http://139.ye23.vip/dl/btv2502.php?id=bjws4
-#http://101.35.240.114:88/live.php?id=北京卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
-#http://101.35.240.114:88/live.php?id=浙江卫视4K
 https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视4K.png" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
-#http://101.35.240.114:88/live.php?id=深圳卫视
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 tvg-id="苏州" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png" group-title="4K频道",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8

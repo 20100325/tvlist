@@ -153,18 +153,12 @@ https://fl41.moveonjoy.com/SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="USA",TNT 2
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
 https://n6.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=wif-8HXdTKR1ARHn9hMr2Q&expires=1771180224
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="USA",TNT 3
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
 https://n2.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=6UdatBE8CL51hNgZ9JeOag&expires=1771180224
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="USA",TNT 4
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
 https://n7.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=xpkQ44eXsk-2wzvZDgSyXA&expires=1771180224
 
 #EXTINF:-1 tvg-name="UniversalAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="USA",Universal Action
@@ -226,6 +220,7 @@ https://fl41.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/395px-W_Network_Logo.svg.png" group-title="CANADA",W NETWORK
 https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+
 
 
 

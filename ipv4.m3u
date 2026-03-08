@@ -141,6 +141,14 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029795103_dlna.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="央视高清",吉林卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025561503_dlna.m3u8
 
+#Rihou频道
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="" group-title="Rihou频道",天映经典
+http://rihou.cc:555/tv/[SX]天映经典
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="" group-title="Rihou频道",天映频道
+http://rihou.cc:555/tv/[SX]天映频道
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="" group-title="Rihou频道",美亚电影
+http://rihou.cc:555/tv/[SX]美亚电影
+
 #备用频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="备用频道",CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8

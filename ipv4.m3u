@@ -148,8 +148,6 @@ http://rihou.cc:555/tv/[PL]无线华丽
 http://rihou.cc:555/tv/[PL]无线翡高
 #EXTINF:-1 tvg-name="有线综合" tvg-logo="" group-title="Rihou频道",有线综合
 http://rihou.cc:555/tv/[PL]有线综合
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="Rihou频道",凤凰资讯
-http://rihou.cc:555/tv/[PL]凤凰资讯
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="" group-title="Rihou频道",八度空间
 http://rihou.cc:555/tv/[Pd]八度空间
 #EXTINF:-1 tvg-name="无线功夫" tvg-logo="" group-title="Rihou频道",无线功夫

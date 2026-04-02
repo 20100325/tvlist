@@ -147,8 +147,8 @@ http://rihou.cc:555/tv/[PL]无线华丽
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="" group-title="Rihou频道",无线翡翠
 http://rihou.cc:555/tv/[PL]无线翡高
 #EXTINF:-1 tvg-name="无线功夫" tvg-logo="" group-title="Rihou频道",无线功夫
-#http://rihou.cc:555/tv/[Pd]无线功夫
-http://rihou.cc:555/tv/[PL]无线功夫
+http://rihou.cc:555/tv/[Pd]无线功夫
+#http://rihou.cc:555/tv/[PL]无线功夫
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="" group-title="Rihou频道",龙华电影
 http://rihou.cc:555/tv/[Pd]龙华电影
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="" group-title="Rihou频道",龙华经典

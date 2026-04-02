@@ -140,6 +140,14 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060703_dlna.m3u8
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029795103_dlna.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="央视高清",吉林卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025561503_dlna.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视高清",CHC家庭影院
+http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视高清",CHC动作电影
+http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="央视高清",CHC影迷电影
+http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
+#EXTINF:-1 tvg-name="淘电影" group-title="央视高清",淘电影
+http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
 
 #Rihou频道
 #EXTINF:-1 tvg-name="无线华丽" tvg-logo="" group-title="Rihou频道",无线华丽

@@ -16,6 +16,8 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="4K频道",浙江卫视
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="" group-title="4K频道",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 #央视高清
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视高清",CCTV1
@@ -157,6 +159,8 @@ http://rihou.cc:555/tv/[PL]无线翡高
 #EXTINF:-1 tvg-name="无线功夫" tvg-logo="" group-title="Rihou频道",无线功夫
 http://rihou.cc:555/tv/[Pd]无线功夫
 #http://rihou.cc:555/tv/[PL]无线功夫
+#EXTINF:-1 tvg-name="有线综合" tvg-logo="" group-title="Rihou频道",有线综合
+http://rihou.cc:555/tv/[Cx]有线综合
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="" group-title="Rihou频道",龙华电影
 http://rihou.cc:555/tv/[Pd]龙华电影
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="" group-title="Rihou频道",龙华经典
@@ -196,16 +200,21 @@ http://rihou.cc:555/tv/[Pd]CH5综合
 #EXTINF:-1 tvg-name="Plus综合" tvg-logo="" group-title="Rihou频道",Plus综合
 http://rihou.cc:555/tv/[PL]Plus综合
 #EXTINF:-1 tvg-name="VIUTV英" tvg-logo="" group-title="Rihou频道",VIUTV英
-http://rihou.cc:555/tv/[SX]VIUTV英
+http://rihou.cc:555/tv/[Cx]VIUTV英
 #EXTINF:-1 tvg-name="VIUTV粤" tvg-logo="" group-title="Rihou频道",VIUTV粤
-http://rihou.cc:555/tv/[SX]VIUTV粤
+http://rihou.cc:555/tv/[Cx]VIUTV粤
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="" group-title="Rihou频道",美亚电影
 http://rihou.cc:555/tv/[PL]美亚电影
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="" group-title="Rihou频道",广东珠江
 http://rihou.cc:555/tv/[Cx]广东珠江
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="" group-title="Rihou频道",天映经典
-http://rihou.cc:555/tv/[SX]天映经典
-
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="" group-title="Rihou频道",RTHK-31
+http://rihou.cc:555/tv/[Cx]RTHK-31
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="" group-title="Rihou频道",RTHK-32
+http://rihou.cc:555/tv/[Cx]RTHK-32
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="" group-title="Rihou频道",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
 #备用频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="备用频道",CCTV1
@@ -447,6 +456,20 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="NOW NEWS" tvg-logo="https://live.fanmingming.cn/tv/NOWNEWS.png" group-title="港澳台频道",NOW NEWS
 http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="" group-title="港澳台频道",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="" group-title="港澳台频道",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 tvg-name="公视" tvg-logo="" group-title="港澳台频道",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-logo="" group-title="港澳台频道",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 tvg-name="华视教育" tvg-logo="" group-title="港澳台频道",华视教育
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="" group-title="港澳台频道",华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-name="中视" tvg-logo="" group-title="港澳台频道",中视
+http://74.91.26.218:82/live/ctv.m3u8
 
 #动画频道
 
